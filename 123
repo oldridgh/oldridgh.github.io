@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html> <html lang="ru"> <meta charset="UTF-8">
+  <head>
+      <link href="style.css" rel="stylesheet">
+    <title>Моё резюме</title>
+    <meta charset="utf-8">
+  </head>
+ <body>
+<div id="header">
+
+     <h1 id="header"> Чернышов Дмитрий</h1>
+
+     <h3> Веб-разработчик </h3>
+  
+     <p> <a href="mailto:oldridgh@ya.ru"> oldridgh@ya.ru</a> <a href="http://www.github.com/"> github.com</a></p>
+     </div>
+     <div id="main">
+     <p>  Я вырос сам в трущобах городских. Я есть просил. Я замерзал. Ну а пока ласкали Вы детей свОих. Я есть просил. Я замерзал.</p>
+     </div>
+<div id="footer">
+     <p> ул. Гоголя 16 кв. 79 <a href="mailto:oldridgh@ya.ru"> oldridgh@ya.ru</a></p>
+<div>
+  </body>
+</html>
